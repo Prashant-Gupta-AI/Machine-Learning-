@@ -1,2 +1,2 @@
 # Machine Learning 
- Apply machine learning algorithm using python
+ Apply machine learning algorithm on various datasets using python
